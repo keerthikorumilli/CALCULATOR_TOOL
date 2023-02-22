@@ -6,9 +6,6 @@ This calculator tool enables one to do all the mathematical operations like addi
 > Web apps
 > Visual studio code
 
-**Project link** https://green-river-0b6f7ec10.2.azurestaticapps.net
-**project demo video link** https://youtu.be/8Ofo0Pv-JAs
-
 **Features and Functionalities** 
 - Easliy accessible
 - Fast calculations
